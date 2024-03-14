@@ -5,6 +5,7 @@
 <pre>
 Error: "The preLaunchTask 'C/C++: g++.exe build active file' terminated with exit code 1"
 </pre>
+![image](https://github.com/hoonheelee-coder/Programming-tips/assets/85044607/b39a04f1-0f4f-4559-914d-1558a2fcbfe3)
 
 이러한 에러 메세지가 나타날 경우 아래의 절차를 따라서 해 보세요.   
 
