@@ -16,7 +16,7 @@ Error: "The preLaunchTask 'C/C++: g++.exe build active file' terminated with exi
 
 * 방법 2. 깨진 파일 경로 상에 특수기호를 삭제하거나 문자로 수정 해 보세요.
   
-* 방법 3. 컴파일러를 제대로 연결하였는지 .확인 해 보세요.   
+* 방법 3. 컴파일러를 제대로 연결하였는지 확인 해 보세요.   
 ```javascript
 {
     "tasks": [
