@@ -8,7 +8,7 @@ Error: "The preLaunchTask 'C/C++: g++.exe build active file' terminated with exi
 방법 1. 실행하는 c 파일을 포함하는 폴더 안에 .vscode 가 있으면 삭제하고 재실행을 해 보세요.   
    
 방법 2. 컴파일러를 제대로 연결하였는지 확인 해 보세요.   
-'''json
+<code>
 {
     "tasks": [
         {
@@ -37,3 +37,4 @@ Error: "The preLaunchTask 'C/C++: g++.exe build active file' terminated with exi
     ],
     "version": "2.0.0"
 }
+</code>
